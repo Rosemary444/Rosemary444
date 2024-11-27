@@ -10,11 +10,11 @@
 <h3>I enjoy building creative web solutions and exploring new technologies.</h3>
 <img align="right" alt="coding" width="450" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
-- 🔭 I’m currently working on **[Virtual Space](https://github.com/Rosemary444)**, an innovative digital platform;<br>
+- 🔭 Recently worked on **[Virtual Space](https://github.com/Rosemary444)**, an innovative digital platform;<br>
 - 🧠 I’m currently learning **Python Full Stack Development**;<br>
 
 - 📫 How to reach me **mrosey488@gmail.com**;<br>
-- ✨ Fun fact: **I enjoy reading tech blogs and exploring new tools**.<br>
+- ✨ Fun fact: **I enjoy exploring new tools**.<br>
   
 ## 🌐 Connect with me:
 <p align="left">
