@@ -5,6 +5,8 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=800080&center=true&vCenter=true&lines=Passionate+Web+Developer&effect=typing">
   </a>
 </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Rosemary444&label=Profile%20views&color=0e75b6&style=flat" alt="Rosemary444" /> </p>
+
 
 ## 💫 About Me:
 <h3>I enjoy building web pages and exploring new technologies.</h3>
