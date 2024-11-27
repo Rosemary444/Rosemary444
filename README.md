@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=e876c1&center=true&lines=Passionate+Web+Developer;&center=true&width=380&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=800080&center=true&vCenter=true&lines=Passionate+Web+Developer&effect=typing">
   </a>
 </p>
 
@@ -12,6 +12,7 @@
 
 - 🔭 I’m currently working on **[Virtual Space](https://github.com/Rosemary444)**, an innovative digital platform;<br>
 - 🧠 I’m currently learning **Python Full Stack Development**;<br>
+
 - 📫 How to reach me **mrosey488@gmail.com**;<br>
 - ✨ Fun fact: **I enjoy reading tech blogs and exploring new tools**.<br>
   
@@ -23,7 +24,7 @@
 </p>
 
 ## 💻 Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,javascript,bootstrap,django,git,github,mysql,vscode&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,javascript,django,git,github,mysql,vscode&perline=8)](https://skillicons.dev)
 
 ## 📊 GitHub Stats:
 <p align="center">
