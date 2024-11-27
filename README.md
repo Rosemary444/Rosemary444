@@ -7,7 +7,7 @@
 </p>
 
 ## 💫 About Me:
-<h3>I enjoy building creative web solutions and exploring new technologies.</h3>
+<h3>I enjoy building web pages and exploring new technologies.</h3>
 <img align="right" alt="coding" width="450" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 - 🔭 Recently worked on **[Virtual Space](https://github.com/Rosemary444)**, an innovative digital platform;<br>
