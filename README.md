@@ -1,80 +1,32 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Rosemary 👋</h1>
 
-<div align="center">
-  <img height="150" src="https://your-image-link-here.png" alt="Waving hand" />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/Rosemary444" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=e876c1&center=true&lines=Passionate+Web+Developer;&center=true&width=380&height=45">
   </a>
-  <a href="https://twitter.com/your-twitter-handle" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter logo" />
-  </a>
-  <a href="https://www.youtube.com/@your-channel" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="YouTube logo" />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Rosemary444.Rosemary444" alt="Visitor badge" />
-</div>
-
-###
-
-<h1 align="center">Hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">
-I'm **Rosemary R**, a **Web Developer** from Bangalore.<br><br>
-- 🔭 Recently worked on **Virtual Space**, an innovative digital platform.<br>
-- 📚 I'm currently learning **advanced web development**.<br>
-- ⚡ In my free time, I enjoy **exploring new technologies and reading tech blogs**.
 </p>
 
-###
+## 💫 About Me:
+<h3>I enjoy building creative web solutions and exploring new technologies.</h3>
+<img align="right" alt="coding" width="450" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
-<h3 align="left">🛠 Language and Tools</h3>
+- 🔭 I’m currently working on **[Virtual Space](https://github.com/Rosemary444)**, an innovative digital platform;<br>
+- 🧠 I’m currently learning **Python Full Stack Development**;<br>
+- 📫 How to reach me **mrosey488@gmail.com**;<br>
+- ✨ Fun fact: **I enjoy reading tech blogs and exploring new tools**.<br>
+  
+## 🌐 Connect with me:
+<p align="left">
+  <a href="linkedin.com/in/rose-mary-r-7304291a0/">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+  </a>
+</p>
 
-###
+## 💻 Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,javascript,bootstrap,django,git,github,mysql,vscode&perline=8)](https://skillicons.dev)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle SQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Rosemary444&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="Streak graph" />
-</div>
-
-###
+## 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rosemary444&layout=compact&theme=nightowl&hide_border=true&langs_count=10" alt="GitHub Top-Langs" align="center" width="40%" />
+  <img alt="Rosemary's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Rosemary444&theme=nightowl&hide_border=true" align="center"/>
+</p>
